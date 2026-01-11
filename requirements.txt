@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+chromadb
+sentence-transformers
+langchain
+google-generativeai
+open-clip-torch
+torch
+Pillow

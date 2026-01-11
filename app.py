@@ -3,7 +3,7 @@ import fitz
 import chromadb
 from chromadb.config import Settings
 from sentence_transformers import SentenceTransformer
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.text_splitters import RecursiveCharacterTextSplitter
 import google.generativeai as genai
 import open_clip
 import torch
